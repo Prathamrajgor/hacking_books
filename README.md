@@ -5,5 +5,5 @@ Books on Hacking and pen-testing
 
 Enter the following command to download:
 
-`git clone https://github.com/Prathamrajgor/hacking_books/new/master?readme=1`
+`git clone https://github.com/Prathamrajgor/hacking_books/`
 
